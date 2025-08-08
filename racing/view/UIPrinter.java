@@ -1,6 +1,6 @@
-package dev.racing2.view;
+package dev.racing.view;
 
-import dev.racing2.settings.RaceSettings;
+import dev.racing.settings.RaceSettings;
 
 public class UIPrinter {
 	public static String buildTrack(int distance) {

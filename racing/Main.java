@@ -1,6 +1,6 @@
-package dev.racing2;
+package dev.racing;
 
-import dev.racing2.controller.RaceController;
+import dev.racing.controller.RaceController;
 import java.util.Scanner;
 
 public class Main {

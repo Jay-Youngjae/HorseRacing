@@ -1,4 +1,4 @@
-package dev.racing2.movelogic;
+package dev.racing.movelogic;
 
 import java.util.Random;
 

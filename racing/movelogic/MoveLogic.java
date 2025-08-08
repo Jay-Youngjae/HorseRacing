@@ -1,4 +1,4 @@
-package dev.racing2.movelogic;
+package dev.racing.movelogic;
 
 public interface MoveLogic {
     int move();

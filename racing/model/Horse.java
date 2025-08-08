@@ -1,7 +1,7 @@
-package dev.racing2.model;
+package dev.racing.model;
 
-import dev.racing2.movelogic.MoveLogic;
-import dev.racing2.settings.RaceSettings;
+import dev.racing.movelogic.MoveLogic;
+import dev.racing.settings.RaceSettings;
 
 public class Horse extends Thread {
     private final int number;

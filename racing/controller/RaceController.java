@@ -1,8 +1,8 @@
-package dev.racing2.controller;
+package dev.racing.controller;
 
-import dev.racing2.model.*;
-import dev.racing2.view.*;
-import dev.racing2.movelogic.*;
+import dev.racing.model.*;
+import dev.racing.view.*;
+import dev.racing.movelogic.*;
 
 import java.util.ArrayList;
 import java.util.List;

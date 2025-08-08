@@ -1,6 +1,6 @@
-package dev.racing2.view;
+package dev.racing.view;
 
-import dev.racing2.model.Horse;
+import dev.racing.model.Horse;
 import java.util.Comparator;
 import java.util.List;
 
